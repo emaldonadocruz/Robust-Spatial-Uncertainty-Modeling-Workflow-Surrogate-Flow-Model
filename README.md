@@ -36,4 +36,4 @@ For this notebook example we have prepared a dataset containing the results of a
     1. Summary of the training
 11. Conclusions and observations
 
-**NOTE**: The hyperparameter space exploration section might be too long to run, we have included the results of the grid search in Search-Space.pkl. Feel free to skip this section and load the results in Summary of the training subsection
+**NOTE**: The hyperparameter space exploration section might be too long to run, we have included the results of the grid search in Flow_surrogates_study.csv. Feel free to skip this section and load the results in Summary of the training subsection
