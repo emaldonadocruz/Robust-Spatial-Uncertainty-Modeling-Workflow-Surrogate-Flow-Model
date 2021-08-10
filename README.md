@@ -21,19 +21,23 @@ For this notebook example we have prepared a dataset containing the results of a
 
 ## Notebook contents
 
-1. Executive summary
-2. Objective
-3. Introduction
+1. Introduction
+2. Convolutional Neural Networks
+3. Problem statement
 4. Library importing
 5. Functions
-6. Dataset exploration
-7. Dataset normalization and split
-8. Deterministic prediction
-    1. Model goodness evaluation
-9. Uncertainty model generation
-    1. Model goodness evaluation
-10. Hyperparameter space exploration
-    1. Summary of the training
-11. Conclusions and observations
+6. GPU definition
+7. Truth image generation
+8. Training images
+9. Testing images
+10. UNET definition
+11. Model optimization
+12. Single model analysis
+13. Summary statistics
+    1. Train-test histograms
+    2. Test out of distribution
+    3. Volumetric calculations
+    4. Cross validation
+    5. Error in terms of volume
 
 **NOTE**: The hyperparameter space exploration section might be too long to run, we have included the results of the grid search in Flow_surrogates_study.csv. Feel free to skip this section and load the results in Summary of the training subsection
