@@ -1,10 +1,10 @@
 # Robust Spatial Uncertainty Modeling Workflow Surrogate Flow Model
 
-<p align="center">
-<img src="https://github.com/emaldonadocruz/Images/blob/master/Saturation_sample.png" width="1000px"></img>
-</p>
-
 This repository contains a new and general workflow to generate accurate and precise machine learning-based surrogate flow models to predict the relationship between the reservoir rock and fluids, development parameters, and the reservoir flow simulation responses. We train a deep convolutional neural network using the results from a three-dimensional two-phase flow simulator. Next, we use the dropout hyperparameter to generate ensemble predictions from the flow surrogate to evaluate the accuracy and precision of the model. The machine learning-based surrogate model uses exhaustive subsurface predictor features, porosity, permeability, well position, and an engineered feature representing non-dimensional time as input to predict exhaustive subsurface response features, pressure, and saturation distribution over discrete time steps as the output. The proposed workflow integrates the spatiotemporal aspect of subsurface flow modeling. 
+
+<p align="center">
+<img src="https://github.com/emaldonadocruz/Images/blob/master/Saturation_sample.png" width="500px"></img>
+</p>
 
 ## Executive summary
 
