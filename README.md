@@ -15,6 +15,10 @@ We propose a new and general workflow to generate accurate and precise machine l
 
 For this notebook example we have prepared a dataset containing the results of a numerical flow simulator that considers a three dimension, two phase displacement problem.
 
+<p align="center">
+<img src="https://github.com/emaldonadocruz/Images/blob/master/Sample.png" width="500px"></img>
+</p>
+
 ## Notebook contents
 
 1. Executive summary
