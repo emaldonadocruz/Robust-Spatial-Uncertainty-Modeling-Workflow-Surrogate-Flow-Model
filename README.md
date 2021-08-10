@@ -11,6 +11,10 @@ This repository contains a new and general workflow to generate accurate and pre
 To evaluate uncertainty, we rely on multiple geostatistical subsurface heterogeneity realizations paired with flow simulation forecasts to test the sensitivity of various reservoir development parameters and build an uncertainty model of reservoir performance. However, with large reservoir models, numerical flow simulation time increases, leading to a significant amount of professional time and computational effort that increases project costs, and increases cycle times resulting in delay or diminished decision quality. This issue motivates the utilization of surrogate, computationally efficient approximative flow models. Current methods focus on prediction accuracy and minimizing prediction error. When uncertainty is significant, prediction accuracy is insufficient, and we must consider the entire uncertainty distribution. 
 We propose a new and general workflow to generate accurate and precise machine learning-based surrogate flow models to predict the relationship between the reservoir rock and fluids, development parameters, and the reservoir flow simulation responses. 
 
+<p align="center">
+<img src="https://github.com/emaldonadocruz/Images/blob/master/DissimilarityErrorPlot.png" width="500px"></img>
+</p>
+
 ## Data
 
 For this notebook example we have prepared a dataset containing the results of a numerical flow simulator that considers a three dimension, two phase displacement problem.
