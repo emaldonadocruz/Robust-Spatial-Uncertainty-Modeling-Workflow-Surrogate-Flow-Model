@@ -12,7 +12,7 @@ To evaluate uncertainty, we rely on multiple geostatistical subsurface heterogen
 We propose a new and general workflow to generate accurate and precise machine learning-based surrogate flow models to predict the relationship between the reservoir rock and fluids, development parameters, and the reservoir flow simulation responses. 
 
 <p align="center">
-<img src="https://github.com/emaldonadocruz/Images/blob/master/DissimilarityErrorPlot.png" width="500px"></img>
+<img src="https://github.com/emaldonadocruz/Images/blob/master/DissimilarityErrorPlot.png" width="750px"></img>
 </p>
 
 ## Data
